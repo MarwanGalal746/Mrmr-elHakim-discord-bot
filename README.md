@@ -12,7 +12,7 @@
 
 ## :dart: ​Clone the project
 
-​	`$ git clone https://github.com/MarwanGalal746/Mrmr-discord-bot`
+​	`git clone https://github.com/MarwanGalal746/Mrmr-elHakim-discord-bot`
 
 
 
