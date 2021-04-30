@@ -24,5 +24,5 @@
 
 ## :bulb: commands 
 
- -  `$help ` :  This command will help to use the bot.
+ -  `$help` :  This command will help to use the bot.
  -  `$quote` : This command will make the bot send a random quote in the text channel where you typed the command.
