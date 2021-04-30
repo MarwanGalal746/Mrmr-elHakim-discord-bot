@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Mrmr discord bot 🤖</h1>
+  <h1>Mrmr el hakim discord bot 🤖</h1>
 </div>
 
 
