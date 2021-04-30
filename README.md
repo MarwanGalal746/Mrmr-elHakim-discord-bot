@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Mrmr el hakim discord bot 🤖</h1>
+  <h1>Quotes discord bot 🤖</h1>
 </div>
 
 
@@ -12,7 +12,7 @@
 
 ## :dart: ​Clone the project
 
-​	`git clone https://github.com/MarwanGalal746/Mrmr-elHakim-discord-bot`
+​	`git clone https://github.com/MarwanGalal746/Quotes-discord-bot`
 
 
 
