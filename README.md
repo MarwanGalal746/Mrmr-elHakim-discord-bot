@@ -18,7 +18,7 @@
 
 ## 💻 Running
 
-​	To add this bot to your server just click (here)[https://discord.com/api/oauth2/authorize?client_id=837468378771357727&scope=bot] and choose which of your servers you want to add this bot to. 
+​	To add this bot to your server just click [here](https://discord.com/api/oauth2/authorize?client_id=837468378771357727&scope=bot) and choose which of your servers you want to add this bot to. 
 
 
 
